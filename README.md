@@ -1,2 +1,2 @@
 # MIPS-simulation-computer-architecture
-A simulation to data path of the instruction passing throw all the stages. Fetch, Decode, Execution, Memory and write back stages. The code print 
+The program take the instructions that will be executed. The code print all the pipeline registers in every cycle of the data path of the instructions passing throw all the stages (Fetch, Decode, Execution, Memory and write back) stages.
